@@ -1,8 +1,9 @@
-# React + Vite
+# 🎨 3D Object Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project showcases a **3D interactive object** created using **Spline** and integrated into a **Vite + React** app.
 
-Currently, two official plugins are available:
+## 🚀 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Website Preview](https://www.veed.io/view/3bec8370-c8a4-49d0-922c-4bdf1d4ac25b)
+
+👉 **Move around and check it out!**
