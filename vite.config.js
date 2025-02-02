@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/3d-object-animation/', 
+  base: '/3d-object-animation/', // Repository name
 });
