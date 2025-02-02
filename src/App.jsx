@@ -18,7 +18,7 @@ function App() {
         }}
       >
         Hello, I'm Emily and I made this 3D animated object.<br />
-        Move around and check it out :)
+        Move around and check it out! :)
       </div>
 
       {/* Spline scene */}
